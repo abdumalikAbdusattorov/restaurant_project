@@ -1,0 +1,1 @@
+INSERT INTO role(name) values('ROLE_MANAGER'),('ROLE_DIRECTOR'),('ROLE_ADMIN'),('ROLE_SELLER');
